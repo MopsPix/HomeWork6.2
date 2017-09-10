@@ -1,0 +1,31 @@
+table{
+	text-align: center;
+	border-collapse: collapse;
+}
+
+.line{
+	border-bottom: 2px solid black;
+}
+
+.gl{
+	border-bottom: 2px solid grey;
+}
+
+.redtext{
+	color: #DF0101;
+}
+
+button{
+	width: 20px;
+	height: 20px;
+	background-color: #FF0000;
+	color: #fff;
+	border: 1px solid #FF0000;
+}
+.buttondel{
+	width: 60px;
+	height: 18px;
+	background-color: #DF0101;
+	color:#fff;
+	border: 1px solid #DF0101;
+}
